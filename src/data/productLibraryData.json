@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "lib-wall-panelling-oak",
+    "roomType": "Living / Dining / Bedroom",
+    "category": "Wall Panelling",
+    "name": "Fluted Oak Veneer Wall Panelling",
+    "description": "Feature accent wall with natural veneer and PU matt finish",
+    "material": "BWP Marine Ply + Natural White Oak Veneer + PU Polish",
+    "rate": 2100,
+    "unit": "Sft",
+    "defaultDimensions": {
+      "w": 120,
+      "d": 4,
+      "h": 108,
+      "sft": 90
+    },
+    "referenceImage": "/reference_images/image12.png"
+  },
+  {
+    "id": "lib-2",
+    "roomType": "Ground floor room",
+    "category": "Walk in wardrobe",
+    "name": "40mm thick Shelves",
+    "material": "Double MR ply + External Laminate",
+    "rate": 1000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 67.16,
+      "d": null,
+      "h": 18.0,
+      "sft": 8.395
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-3",
+    "roomType": "Foyer",
+    "category": "Planter box",
+    "name": "Planter box",
+    "material": "BWR ply + External laminate",
+    "rate": 1500.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 60.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 7.5
+    },
+    "referenceImage": "/reference_images/image10.png"
+  },
+  {
+    "id": "lib-4",
+    "roomType": "Foyer",
+    "category": "Back panel",
+    "name": "Back panel",
+    "material": "MR ply + External laminate + Charcoal panels",
+    "rate": 1200.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 62.6,
+      "d": null,
+      "h": 111.04,
+      "sft": 48.27155556
+    },
+    "referenceImage": "/reference_images/image10.png"
+  },
+  {
+    "id": "lib-5",
+    "roomType": "Living",
+    "category": "TV unit",
+    "name": "Drawer unit",
+    "material": "Carcass: MR ply + external laminate\nShutter: Aluminium profile + Glass and Block board + laminate",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 80.68,
+      "d": null,
+      "h": 24.0,
+      "sft": 13.44666667
+    },
+    "referenceImage": "/reference_images/image12.png"
+  },
+  {
+    "id": "lib-6",
+    "roomType": "Living",
+    "category": "TV unit",
+    "name": "Leaf back panel",
+    "material": "HDHMR board + CNC carving + PU paint",
+    "rate": 1650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 84.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 56.0
+    },
+    "referenceImage": "/reference_images/image12.png"
+  },
+  {
+    "id": "lib-7",
+    "roomType": "Living",
+    "category": "TV unit",
+    "name": "Tall unit",
+    "material": "Shelves : MR ply + laminate\nBack Panel : MR ply + Laminate\nVertical panels : Double ply MR ply + laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 36.0,
+      "d": null,
+      "h": 119.04,
+      "sft": 29.76
+    },
+    "referenceImage": "/reference_images/image12.png"
+  },
+  {
+    "id": "lib-8",
+    "roomType": "Living",
+    "category": "TV unit",
+    "name": "Vertical curve design on either side of the TV back panel",
+    "material": "Aluminium channels + MR ply + Gypsum board + POP + Royale paint",
+    "rate": 750.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 16.0,
+      "d": null,
+      "h": 119.0,
+      "sft": 13.22222222
+    },
+    "referenceImage": "/reference_images/image12.png"
+  },
+  {
+    "id": "lib-9",
+    "roomType": "Living",
+    "category": "TV unit",
+    "name": "Concealed swing door",
+    "material": "Flush door + MR ply + Laminate + Door closer",
+    "rate": 1200.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 36.0,
+      "d": null,
+      "h": 119.04,
+      "sft": 29.76
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-10",
+    "roomType": "Pooja Room",
+    "category": "Pooja elevation",
+    "name": "Pooja elevation",
+    "material": "Pooja boxing + Veneer + Polishing",
+    "rate": 1650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 51.0
+    },
+    "referenceImage": "/reference_images/image7.png"
+  },
+  {
+    "id": "lib-11",
+    "roomType": "Dining",
+    "category": "Crockery unit",
+    "name": "Rafters",
+    "material": "MR ply backing+ Charcoal panel",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 12.0,
+      "d": null,
+      "h": 119.0,
+      "sft": 9.916666667
+    },
+    "referenceImage": "/reference_images/image2.png"
+  },
+  {
+    "id": "lib-12",
+    "roomType": "Dining",
+    "category": "Crockery unit",
+    "name": "Boxing structure",
+    "material": "MR ply boxing + Shelves with MS rods and powdercoating + Brown mirror",
+    "rate": 1500.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 55.88,
+      "d": null,
+      "h": 119.0,
+      "sft": 46.17861111
+    },
+    "referenceImage": "/reference_images/image2.png"
+  },
+  {
+    "id": "lib-13",
+    "roomType": "Dining",
+    "category": "Crockery unit",
+    "name": "Base cabinet",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 2000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 38.0,
+      "d": null,
+      "h": 38.0,
+      "sft": 10.02777778
+    },
+    "referenceImage": "/reference_images/image2.png"
+  },
+  {
+    "id": "lib-14",
+    "roomType": "Dining",
+    "category": "Crockery unit",
+    "name": "Tandem box",
+    "material": "Brand : Hettich",
+    "rate": 10000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": null
+    },
+    "referenceImage": "/reference_images/image2.png"
+  },
+  {
+    "id": "lib-15",
+    "roomType": "FF Master  Bedroom",
+    "category": "Bed unit",
+    "name": "Bed",
+    "material": "King size storage hydraulic bed",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 78.0,
+      "sft": 39.0
+    },
+    "referenceImage": "/reference_images/image17.png"
+  },
+  {
+    "id": "lib-16",
+    "roomType": "FF Master  Bedroom",
+    "category": "Bed unit",
+    "name": "Bed side table",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 10000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 18.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 2.25
+    },
+    "referenceImage": "/reference_images/image17.png"
+  },
+  {
+    "id": "lib-17",
+    "roomType": "FF Master  Bedroom",
+    "category": "Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate",
+    "rate": 1650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 87.56,
+      "d": 24.0,
+      "h": 120.0,
+      "sft": 72.96666667
+    },
+    "referenceImage": "/reference_images/image8.png"
+  },
+  {
+    "id": "lib-18",
+    "roomType": "FF Master  Bedroom",
+    "category": "Dresser",
+    "name": "Dresser mirror",
+    "material": "LED mirror with Aluminum framing",
+    "rate": 1200.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 72.0,
+      "sft": 12.0
+    },
+    "referenceImage": "/reference_images/image3.png"
+  },
+  {
+    "id": "lib-19",
+    "roomType": "FF Master  Bedroom",
+    "category": "Dresser",
+    "name": "Rafters",
+    "material": "MR ply +  charcoal panel",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 8.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-20",
+    "roomType": "FF Master  Bedroom",
+    "category": "Dresser",
+    "name": "Drawer unit",
+    "material": "Carcass : BWP ply + internal laminate\nShutter: Block board + laminate",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 30.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 3.75
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-21",
+    "roomType": "Kitchen",
+    "category": "Base cabinet",
+    "name": "Base cabinet",
+    "material": "Carcass : BWP ply + internal laminate\nShutter: HDHMR + external acrylic sheet\nHandle : Gola profile",
+    "rate": 2500.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 186.56,
+      "d": 24.0,
+      "h": 36.0,
+      "sft": 46.64
+    },
+    "referenceImage": "/reference_images/image22.png"
+  },
+  {
+    "id": "lib-22",
+    "roomType": "Kitchen",
+    "category": "Over head cabinet",
+    "name": "Over head cabinet",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Aluminium profile + Fluted Glass",
+    "rate": 2000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 74.64,
+      "d": 12.0,
+      "h": 38.4,
+      "sft": 19.904
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-23",
+    "roomType": "Kitchen",
+    "category": "Loft",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: HDHMR + external acrylic sheet",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 218.28,
+      "d": null,
+      "h": 24.0,
+      "sft": 36.38
+    },
+    "referenceImage": "/reference_images/image20.png"
+  },
+  {
+    "id": "lib-24",
+    "roomType": "Kitchen",
+    "category": "Tall unit",
+    "name": "Tall unit",
+    "material": "Carcass : BWP ply + internal laminate\nShutter: HDHMR + external acrylic sheet\nHandle : Gola profile",
+    "rate": 2500.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 95.92,
+      "sft": 15.98666667
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-25",
+    "roomType": "Kitchen",
+    "category": "Accessories",
+    "name": "Tandems",
+    "material": "Hettich",
+    "rate": 12000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 1.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-26",
+    "roomType": "Kitchen",
+    "category": "Accessories",
+    "name": "Bottle pullout",
+    "material": "Hettich",
+    "rate": 15000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 1.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-27",
+    "roomType": "Utility",
+    "category": "Over head cabinet",
+    "name": "Over head cabinet",
+    "material": "Carcass: BWP ply + internal laminate\nShutter: Aluminium profile + Fluted Glass",
+    "rate": 2200.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": 12.0,
+      "h": 24.0,
+      "sft": 4.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-28",
+    "roomType": "Guest Bedroom",
+    "category": "Bed unit",
+    "name": "Bed",
+    "material": "King size  storage hydraulic bed",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 78.0,
+      "sft": 39.0
+    },
+    "referenceImage": "/reference_images/image5.png"
+  },
+  {
+    "id": "lib-29",
+    "roomType": "Guest Bedroom",
+    "category": "Bed unit",
+    "name": "Bed side table",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 9000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 18.0,
+      "d": 16.0,
+      "h": 18.0,
+      "sft": 1.0
+    },
+    "referenceImage": "/reference_images/image5.png"
+  },
+  {
+    "id": "lib-30",
+    "roomType": "Guest Bedroom",
+    "category": "Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 95.08,
+      "d": 24.0,
+      "h": 96.0,
+      "sft": 63.38666667
+    },
+    "referenceImage": "/reference_images/image14.png"
+  },
+  {
+    "id": "lib-31",
+    "roomType": "Guest Bedroom",
+    "category": "Wardrobe",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1350.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 95.0,
+      "d": 24.0,
+      "h": 36.0,
+      "sft": 23.75
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-32",
+    "roomType": "Guest Bedroom",
+    "category": "Seating area",
+    "name": "Drawer unit",
+    "material": "Carcass: MR ply + external laminate\nShutter: Block board +external laminate",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 102.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 12.75
+    },
+    "referenceImage": "/reference_images/image26.png"
+  },
+  {
+    "id": "lib-33",
+    "roomType": "Guest Bedroom",
+    "category": "Seating area",
+    "name": "Book shelf",
+    "material": "Carcass: MR ply + external laminate\nShutter: Aluminium profile + Glass",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 48.0,
+      "d": null,
+      "h": 72.0,
+      "sft": 24.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-34",
+    "roomType": "Guest Bedroom",
+    "category": "Seating area",
+    "name": "Back panel",
+    "material": "PVC moulding + painting",
+    "rate": 300.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 10.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-35",
+    "roomType": "Guest Bedroom",
+    "category": "Dresser",
+    "name": "Dresser mirror",
+    "material": "Mirror with aluminum frame",
+    "rate": 900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 48.0,
+      "sft": 8.0
+    },
+    "referenceImage": "/reference_images/image16.png"
+  },
+  {
+    "id": "lib-36",
+    "roomType": "Guest Bedroom",
+    "category": "Dresser",
+    "name": "Rafters",
+    "material": "MR ply + charcoal panel",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 38.0,
+      "d": null,
+      "h": 60.0,
+      "sft": 15.83333333
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-37",
+    "roomType": "Guest Bedroom",
+    "category": "Dresser",
+    "name": "Tall storage",
+    "material": "Carcass: MR ply + external laminate\nShutter: Block board + external laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 18.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 12.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-38",
+    "roomType": "Guest Bedroom",
+    "category": "Dresser",
+    "name": "Dresser table drawer",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 38.0,
+      "d": null,
+      "h": 8.0,
+      "sft": 2.111111111
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-39",
+    "roomType": "Guest Bedroom",
+    "category": "Full mirror",
+    "name": "Mirror",
+    "material": "Mirror with aluminum frame",
+    "rate": 900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 72.0,
+      "sft": 12.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-40",
+    "roomType": "Guest Bedroom",
+    "category": "Full mirror",
+    "name": "Rafters",
+    "material": "MR ply + charcoal panel",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 16.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-41",
+    "roomType": "Son's room 01",
+    "category": "Bed unit",
+    "name": "Bed",
+    "material": "King size  storage hydraulic bed",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 78.0,
+      "sft": 39.0
+    },
+    "referenceImage": "/reference_images/image25.png"
+  },
+  {
+    "id": "lib-42",
+    "roomType": "Son's room 01",
+    "category": "Bed unit",
+    "name": "Bed side table",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 11000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 18.0,
+      "d": 16.0,
+      "h": 18.0,
+      "sft": 1.0
+    },
+    "referenceImage": "/reference_images/image25.png"
+  },
+  {
+    "id": "lib-43",
+    "roomType": "Son's room 01",
+    "category": "Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 112.0,
+      "d": 24.0,
+      "h": 96.0,
+      "sft": 74.66666667
+    },
+    "referenceImage": "/reference_images/image11.png"
+  },
+  {
+    "id": "lib-44",
+    "roomType": "Son's room 01",
+    "category": "Wardrobe",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: MR ply + external laminate",
+    "rate": 1600.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 112.0,
+      "d": 24.0,
+      "h": 30.0,
+      "sft": 23.33333333
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-45",
+    "roomType": "Son's room 01",
+    "category": "TV unit",
+    "name": "Drawer unit",
+    "material": "Carcass: MR ply + external laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 9.0
+    },
+    "referenceImage": "/reference_images/image4.png"
+  },
+  {
+    "id": "lib-46",
+    "roomType": "Son's room 01",
+    "category": "Study Table",
+    "name": "Ledge",
+    "material": "40mm thick table",
+    "rate": 1000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 60.0,
+      "d": null,
+      "h": 24.0,
+      "sft": 10.0
+    },
+    "referenceImage": "/reference_images/image6.png"
+  },
+  {
+    "id": "lib-47",
+    "roomType": "Son's room 01",
+    "category": "Study Table",
+    "name": "Overhead cabinet",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 60.0,
+      "d": null,
+      "h": 36.0,
+      "sft": 15.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-48",
+    "roomType": "Son's room 01",
+    "category": "Study Table",
+    "name": "Tall unit",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 16.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-49",
+    "roomType": "Son's room 01",
+    "category": "Walk in Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Aluminium profile + fluted glass",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 104.16,
+      "d": 24.0,
+      "h": 96.0,
+      "sft": 69.44
+    },
+    "referenceImage": "/reference_images/image9.png"
+  },
+  {
+    "id": "lib-50",
+    "roomType": "Son's room 01",
+    "category": "Walk in Wardrobe",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1350.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 104.0,
+      "d": 24.0,
+      "h": 36.0,
+      "sft": 26.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-51",
+    "roomType": "Son's room 01",
+    "category": "Dresser",
+    "name": "Dresser mirror",
+    "material": "12mm ply backing + mirror",
+    "rate": 900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 30.0,
+      "d": null,
+      "h": 72.0,
+      "sft": 15.0
+    },
+    "referenceImage": "/reference_images/image19.png"
+  },
+  {
+    "id": "lib-52",
+    "roomType": "Son's room 01",
+    "category": "Dresser",
+    "name": "Tall unit",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 14.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 9.333333333
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-53",
+    "roomType": "Son's room 01",
+    "category": "Dresser",
+    "name": "Rafters",
+    "material": "MR ply + charcoal panel",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 16.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-54",
+    "roomType": "Son's room 01",
+    "category": "Dresser",
+    "name": "Ledge",
+    "material": "40mm thick ledge",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 4.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-55",
+    "roomType": "Son's room 01",
+    "category": "Corner cabinet",
+    "name": "Drawer unit with glass on top",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 2000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 36.0,
+      "sft": 6.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-56",
+    "roomType": "Son's room 01",
+    "category": "Corner cabinet",
+    "name": "Shelves",
+    "material": "40mm thick ledge",
+    "rate": 1050.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": null,
+      "d": null,
+      "h": null,
+      "sft": 4.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-57",
+    "roomType": "Son's room 02",
+    "category": "Bed unit",
+    "name": "Bed",
+    "material": "King size  storage hydraulic bed",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 78.0,
+      "sft": 39.0
+    },
+    "referenceImage": "/reference_images/image15.png"
+  },
+  {
+    "id": "lib-58",
+    "roomType": "Son's room 02",
+    "category": "Bed unit",
+    "name": "Bed side table",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 11000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 18.0,
+      "d": 16.0,
+      "h": 18.0,
+      "sft": 1.0
+    },
+    "referenceImage": "/reference_images/image15.png"
+  },
+  {
+    "id": "lib-59",
+    "roomType": "Son's room 02",
+    "category": "Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 112.0,
+      "d": 24.0,
+      "h": 96.0,
+      "sft": 74.66666667
+    },
+    "referenceImage": "/reference_images/image23.png"
+  },
+  {
+    "id": "lib-60",
+    "roomType": "Son's room 02",
+    "category": "Wardrobe",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 1600.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 112.0,
+      "d": 24.0,
+      "h": 30.0,
+      "sft": 23.33333333
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-61",
+    "roomType": "Son's room 02",
+    "category": "TV unit",
+    "name": "Drawer unit",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 72.0,
+      "d": null,
+      "h": 18.0,
+      "sft": 9.0
+    },
+    "referenceImage": "/reference_images/image13.png"
+  },
+  {
+    "id": "lib-62",
+    "roomType": "Son's room 02",
+    "category": "TV unit",
+    "name": "Back panel",
+    "material": "HDHMR textured board",
+    "rate": 1000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 96.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 64.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-63",
+    "roomType": "Son's room 02",
+    "category": "Study Table",
+    "name": "Ledge",
+    "material": "40mm thick table",
+    "rate": 1000.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 102.0,
+      "d": null,
+      "h": 24.0,
+      "sft": 17.0
+    },
+    "referenceImage": "/reference_images/image18.png"
+  },
+  {
+    "id": "lib-64",
+    "roomType": "Son's room 02",
+    "category": "Study Table",
+    "name": "Tall unit",
+    "material": "Carcass: MR ply + internal laminate\nShutter: HDHMR + CNC + PU paint",
+    "rate": 2650.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 16.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-65",
+    "roomType": "Son's room 02",
+    "category": "Walk in Wardrobe",
+    "name": "Wardrobe",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Aluminium profile + fluted glass",
+    "rate": 1900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 99.36,
+      "d": 24.0,
+      "h": 96.0,
+      "sft": 66.24
+    },
+    "referenceImage": "/reference_images/image21.jpg"
+  },
+  {
+    "id": "lib-66",
+    "roomType": "Son's room 02",
+    "category": "Walk in Wardrobe",
+    "name": "Loft",
+    "material": "Ply framing: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1350.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 99.0,
+      "d": 24.0,
+      "h": 28.0,
+      "sft": 19.25
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-67",
+    "roomType": "Son's room 02",
+    "category": "Dresser",
+    "name": "Dresser mirror",
+    "material": "Mirror with aluminium frame",
+    "rate": 900.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 72.0,
+      "sft": 12.0
+    },
+    "referenceImage": "/reference_images/image24.jpg"
+  },
+  {
+    "id": "lib-68",
+    "roomType": "Son's room 02",
+    "category": "Dresser",
+    "name": "Tall unit",
+    "material": "Carcass: MR ply + internal laminate\nShutter: Block board + external laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 96.0,
+      "sft": 16.0
+    },
+    "referenceImage": null
+  },
+  {
+    "id": "lib-69",
+    "roomType": "Son's room 02",
+    "category": "Corner cabinet",
+    "name": "Storage",
+    "material": "Carcass: MR ply + internal laminate\nShutter: MR ply + external laminate",
+    "rate": 1850.0,
+    "unit": "No",
+    "defaultDimensions": {
+      "w": 24.0,
+      "d": null,
+      "h": 60.0,
+      "sft": 10.0
+    },
+    "referenceImage": null
+  }
+]

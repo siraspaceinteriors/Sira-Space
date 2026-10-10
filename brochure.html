@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SIRA SPACE - Sales Brochure & Portfolio</title>
+  <style>
+    @page {
+      size: A4 landscape;
+      margin: 0;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Calibri', 'Helvetica Neue', Arial, sans-serif;
+      background: #1C1A17;
+      color: #FAF7F2;
+      -webkit-print-color-adjust: exact;
+    }
+    .page {
+      width: 297mm;
+      height: 210mm;
+      position: relative;
+      page-break-after: always;
+      padding: 20mm 25mm;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      overflow: hidden;
+      background: #1C1A17;
+    }
+    .page-light {
+      background: #FAF7F2;
+      color: #1C1A17;
+    }
+    .tag {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #C5A059;
+      font-weight: bold;
+    }
+    h1 {
+      font-family: 'Georgia', serif;
+      font-size: 42px;
+      line-height: 1.1;
+      color: #FFFFFF;
+    }
+    .page-light h1 {
+      color: #1C1A17;
+    }
+    h2 {
+      font-family: 'Georgia', serif;
+      font-size: 28px;
+      color: #C5A059;
+      margin-bottom: 15px;
+    }
+    p {
+      font-size: 13px;
+      line-height: 1.6;
+      color: #CBCBCB;
+    }
+    .page-light p {
+      color: #333333;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 25px;
+    }
+    .grid-3 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 20px;
+    }
+    .card {
+      background: #121212;
+      border: 1px solid rgba(197, 160, 89, 0.3);
+      padding: 20px;
+      border-radius: 6px;
+    }
+    .card-light {
+      background: #FFFFFF;
+      border: 1px solid #CBCBCB;
+      padding: 20px;
+      border-radius: 6px;
+    }
+    .footer-bar {
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 10px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 10px;
+      color: #CBCBCB;
+    }
+    .page-light .footer-bar {
+      border-top: 1px solid #CBCBCB;
+      color: #666666;
+    }
+    .accent {
+      color: #C5A059;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- PAGE 1: COVER -->
+  <div class="page">
+    <div>
+      <div class="tag">SIRA SPACE INTERIORS • BENGALURU, KARNATAKA</div>
+      <h1 style="margin-top: 25px; font-size: 52px;">
+        TELLING YOUR STORY,<br><span style="color: #CBCBCB; font-style: italic;">IN YOUR SPACE!</span>
+      </h1>
+      <p style="margin-top: 20px; font-size: 16px; max-width: 650px;">
+        Official Interior Architecture Sales Pitch & Portfolio Presentation
+      </p>
+    </div>
+    <div>
+      <div class="card" style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <p style="font-weight: bold; color: #C5A059; font-size: 14px;">Sindhu Jain M S</p>
+          <p style="font-size: 11px;">Founder & Principal Architect • Civil Engineer</p>
+        </div>
+        <div style="text-align: right; font-size: 11px;">
+          <p>25+ Execution Projects | 50+ Design Projects</p>
+          <p class="accent">Est. April 2023</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>SIRA SPACE INTERIORS</span>
+      <span>www.siraspaceinteriors.com</span>
+    </div>
+  </div>
+
+  <!-- PAGE 2: BRAND IDENTITY -->
+  <div class="page page-light">
+    <div>
+      <div class="tag">01 // BRAND PHILOSOPHY</div>
+      <h2>The Meaning of SIRA SPACE</h2>
+      <div class="grid-3" style="margin-top: 20px;">
+        <div class="card-light">
+          <p class="tag">SIRA</p>
+          <h3 style="font-size: 18px; margin: 5px 0;">The Narrative / The Flow</h3>
+          <p>Derived from roots meaning "order," "sequence," or "living story." Floor plans treat movement as a narrative sequence with visual continuity.</p>
+        </div>
+        <div class="card-light">
+          <p class="tag">SPACE</p>
+          <h3 style="font-size: 18px; margin: 5px 0;">The Canvas / The Function</h3>
+          <p>Represents physical geometry. Balancing ergonomics with built forms—transforming empty volumes into functional areas.</p>
+        </div>
+        <div class="card-light">
+          <p class="tag">MISSION</p>
+          <h3 style="font-size: 18px; margin: 5px 0;">SIRA SPACE</h3>
+          <p>Transforming raw environments into customized, highly engineered spaces that reflect your unique identity, history, and lifestyle.</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>Minimalist Organic Luxury</span>
+      <span>SIRA SPACE Portfolio</span>
+    </div>
+  </div>
+
+  <!-- PAGE 3: FOUNDER PROFILE -->
+  <div class="page">
+    <div>
+      <div class="tag">02 // LEADERSHIP PROFILE</div>
+      <h1>Sindhu Jain M S</h1>
+      <p style="color: #C5A059; font-weight: bold; margin-top: 5px;">Founder & Principal Architect • Civil Engineer</p>
+      
+      <div class="grid-2" style="margin-top: 20px;">
+        <div class="card">
+          <h3 style="color: #FFFFFF; font-size: 16px; margin-bottom: 10px;">Engineering & Career Journey</h3>
+          <p style="font-size: 11px; margin-bottom: 8px;">• <strong>BEML Limited:</strong> AutoCAD 2D shop floor drawings, rate estimation & SAP requisitions.</p>
+          <p style="font-size: 11px; margin-bottom: 8px;">• <strong>Creatomy Interior Designs:</strong> 2D/3D schematics & site concept development.</p>
+          <p style="font-size: 11px; margin-bottom: 8px;">• <strong>Creative Fusion & buildAhome:</strong> Detailed drawings, estimation & site execution.</p>
+          <p style="font-size: 11px;">• <strong>Creatomy Build (Lead - Modular):</strong> Managed modular projects, factory production & dispatch.</p>
+        </div>
+        
+        <div class="card">
+          <h3 style="color: #C5A059; font-size: 16px; margin-bottom: 10px;">Why Sira Space Was Founded</h3>
+          <p style="font-size: 12px; line-height: 1.5;">Established in April 2023 to solve major industry challenges:</p>
+          <p style="font-size: 11px; margin-top: 8px;">✔ Better quality interior solutions</p>
+          <p style="font-size: 11px;">✔ Reduced production lead time</p>
+          <p style="font-size: 11px;">✔ 100% Transparency in materials & workmanship</p>
+          <p style="font-size: 11px;">✔ Client material education & grade clarity</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>25+ Execution & 50+ Design Projects</span>
+      <span>SIRA SPACE</span>
+    </div>
+  </div>
+
+  <!-- PAGE 4: FLAGSHIP PROJECT -->
+  <div class="page page-light">
+    <div>
+      <div class="tag">03 // FLAGSHIP PROJECT</div>
+      <h2>Dr. Basavraj Somanna Residence</h2>
+      <p style="font-weight: bold; margin-bottom: 15px;">Location: Bengaluru | Scope: Full Turnkey Execution & Modular Joinery</p>
+      
+      <div class="card-light" style="margin-top: 15px;">
+        <h3 style="font-size: 18px; color: #1C1A17; margin-bottom: 8px;">Project Highlights</h3>
+        <p>• 100% Factory-built precision joinery manufactured at Bengaluru facility with Hafele/Blum fittings.</p>
+        <p>• Customized living room TV unit spatial architecture & ergonomic kitchen design.</p>
+        <p>• Zero site lead-time delay & full client material transparency.</p>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>Turnkey Execution</span>
+      <span>SIRA SPACE Portfolio</span>
+    </div>
+  </div>
+
+  <!-- PAGE 5: CONTACT & CONSULTATION -->
+  <div class="page">
+    <div>
+      <div class="tag">04 // CONTACT & CONSULTATION</div>
+      <h1>Book a Design Session</h1>
+      <p style="color: #CBCBCB; margin-top: 5px;">Connect with Sindhu Jain M S for site walkthroughs & proposals.</p>
+      
+      <div class="grid-2" style="margin-top: 25px;">
+        <div class="card">
+          <h3 style="color: #C5A059; margin-bottom: 10px;">Official Contact Information</h3>
+          <p style="font-size: 11px; margin-bottom: 6px;"><strong>Office Address:</strong> 344, 1st Cross Rd, Talacauvery Layout, Amrutahalli, Byatarayanapura, Bengaluru, KA 560092</p>
+          <p style="font-size: 11px; margin-bottom: 6px;"><strong>Phone / WhatsApp:</strong> +91 86188 70672 / +91 73538 23487</p>
+          <p style="font-size: 11px; margin-bottom: 6px;"><strong>Email:</strong> siraspaceinteriors@gmail.com</p>
+          <p style="font-size: 11px; margin-bottom: 6px;"><strong>Website:</strong> www.siraspaceinteriors.com</p>
+          <p style="font-size: 11px;"><strong>Instagram:</strong> @sira_space</p>
+        </div>
+        
+        <div class="card" style="background: #C5A059; color: #121212;">
+          <h3 style="color: #121212; margin-bottom: 10px; font-size: 20px;">Regions Served in Karnataka</h3>
+          <p style="color: #121212; font-size: 12px; line-height: 1.6;">
+            • Bengaluru (Bangalore)<br>
+            • Mysuru (Mysore)<br>
+            • Hassan<br>
+            • Tumkur<br>
+            • Davangere
+          </p>
+          <p style="margin-top: 15px; font-weight: bold; color: #121212; font-size: 11px;">
+            In-Person & Virtual Design Consultations Available
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>SIRA SPACE INTERIORS</span>
+      <span>www.siraspaceinteriors.com</span>
+    </div>
+  </div>
+
+</body>
+</html>

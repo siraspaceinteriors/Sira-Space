@@ -1,0 +1,177 @@
+[
+  {
+    "row": 12,
+    "area": "Foyer",
+    "item": "Planter box",
+    "description": "",
+    "image": "/reference_images/image10.png"
+  },
+  {
+    "row": 15,
+    "area": "Living",
+    "item": "TV unit",
+    "description": "Drawer unit",
+    "image": "/reference_images/image12.png"
+  },
+  {
+    "row": 20,
+    "area": "Pooja Room",
+    "item": "Pooja elevation",
+    "description": "",
+    "image": "/reference_images/image7.png"
+  },
+  {
+    "row": 23,
+    "area": "Dining",
+    "item": "Crockery unit",
+    "description": "Rafters",
+    "image": "/reference_images/image2.png"
+  },
+  {
+    "row": 27,
+    "area": "FF Master  Bedroom",
+    "item": "Bed unit",
+    "description": "Bed",
+    "image": "/reference_images/image17.png"
+  },
+  {
+    "row": 32,
+    "area": "FF Master  Bedroom",
+    "item": "Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image8.png"
+  },
+  {
+    "row": 36,
+    "area": "FF Master  Bedroom",
+    "item": "Dresser",
+    "description": "Dresser mirror",
+    "image": "/reference_images/image3.png"
+  },
+  {
+    "row": 40,
+    "area": "Kitchen",
+    "item": "Base cabinet",
+    "description": "",
+    "image": "/reference_images/image22.png"
+  },
+  {
+    "row": 42,
+    "area": "Kitchen",
+    "item": "Loft",
+    "description": "",
+    "image": "/reference_images/image20.png"
+  },
+  {
+    "row": 53,
+    "area": "Guest Bedroom",
+    "item": "Bed unit",
+    "description": "Bed",
+    "image": "/reference_images/image5.png"
+  },
+  {
+    "row": 58,
+    "area": "Guest Bedroom",
+    "item": "Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image14.png"
+  },
+  {
+    "row": 62,
+    "area": "Guest Bedroom",
+    "item": "Seating area",
+    "description": "Drawer unit",
+    "image": "/reference_images/image26.png"
+  },
+  {
+    "row": 66,
+    "area": "Guest Bedroom",
+    "item": "Dresser",
+    "description": "Dresser mirror",
+    "image": "/reference_images/image16.png"
+  },
+  {
+    "row": 72,
+    "area": "Son's room 01",
+    "item": "Bed unit",
+    "description": "Bed",
+    "image": "/reference_images/image25.png"
+  },
+  {
+    "row": 77,
+    "area": "Son's room 01",
+    "item": "Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image11.png"
+  },
+  {
+    "row": 81,
+    "area": "Son's room 01",
+    "item": "TV unit",
+    "description": "Drawer unit",
+    "image": "/reference_images/image4.png"
+  },
+  {
+    "row": 83,
+    "area": "Son's room 01",
+    "item": "Study Table",
+    "description": "Ledge",
+    "image": "/reference_images/image6.png"
+  },
+  {
+    "row": 86,
+    "area": "Son's room 01",
+    "item": "Walk in Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image9.png"
+  },
+  {
+    "row": 88,
+    "area": "Son's room 01",
+    "item": "Dresser",
+    "description": "Dresser mirror",
+    "image": "/reference_images/image19.png"
+  },
+  {
+    "row": 96,
+    "area": "Son's room 02",
+    "item": "Bed unit",
+    "description": "Bed",
+    "image": "/reference_images/image15.png"
+  },
+  {
+    "row": 101,
+    "area": "Son's room 02",
+    "item": "Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image23.png"
+  },
+  {
+    "row": 105,
+    "area": "Son's room 02",
+    "item": "TV unit",
+    "description": "Drawer unit",
+    "image": "/reference_images/image13.png"
+  },
+  {
+    "row": 107,
+    "area": "Son's room 02",
+    "item": "Study Table",
+    "description": "Ledge",
+    "image": "/reference_images/image18.png"
+  },
+  {
+    "row": 109,
+    "area": "Son's room 02",
+    "item": "Walk in Wardrobe",
+    "description": "Wardrobe",
+    "image": "/reference_images/image21.jpg"
+  },
+  {
+    "row": 111,
+    "area": "Son's room 02",
+    "item": "Dresser",
+    "description": "Dresser mirror",
+    "image": "/reference_images/image24.jpg"
+  }
+]

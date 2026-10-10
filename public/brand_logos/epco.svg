@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" fill="none">
+    <rect x="8" y="14" width="42" height="42" rx="8" fill="#D32F2F" />
+    <path d="M19 25 H38 V30 H25 V34 H35 V39 H25 V44 H38 V49 H19 Z" fill="#FFFFFF" />
+    <text x="60" y="48" font-family="'Arial Black', Impact, sans-serif" font-size="38" font-weight="900" letter-spacing="3" fill="#D32F2F">EPCO</text>
+  </svg>
