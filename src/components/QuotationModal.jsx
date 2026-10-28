@@ -323,7 +323,7 @@ export default function QuotationModal({ isOpen, onClose }) {
                 <CheckCircle2 className="w-10 h-10 text-[#C5A059] mx-auto" />
                 <h4 className="font-serif text-2xl text-white">Quotation Dispatched!</h4>
                 <p className="text-xs text-[#CBCBCB] font-light">
-                  Thank you <strong>{clientInfo.name}</strong>. Founder & Principal Architect Sindhu Jain M S will review your {sqFt} sq ft requirements and connect with you shortly.
+                  Thank you <strong>{clientInfo.name}</strong>. Founder Sindhu Jain M S will review your {sqFt} sq ft requirements and connect with you shortly.
                 </p>
                 <button
                   onClick={onClose}

@@ -348,7 +348,7 @@ export default function Home({ onOpenQuote }) {
               
               <div className="absolute bottom-6 left-6 right-6 z-10">
                 <span className="text-[10px] tracking-widest text-[#C5A059] uppercase font-bold block">
-                  FOUNDER & PRINCIPAL ARCHITECT
+                  FOUNDER
                 </span>
                 <h3 className="font-serif text-2xl font-bold text-white mt-1">
                   Sindhu Jain M S

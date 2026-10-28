@@ -8,7 +8,7 @@ export default function Process() {
       num: "01",
       title: "Consultation & Site Inspection",
       subtitle: "Laser Measurements & Lifestyle Audit",
-      desc: "Our journey begins on your site. Principal Architect Sindhu Jain conducts 3D laser leveling, structural checks, window orientation audits, and an in-depth lifestyle interview to uncover how your family lives.",
+      desc: "Our journey begins on your site. Founder Sindhu Jain conducts 3D laser leveling, structural checks, window orientation audits, and an in-depth lifestyle interview to uncover how your family lives.",
       deliverable: "As-Built Dimensional CAD & Spatial Feasibility Analysis",
       image: "/pdf_assets/page_6_img_2_X10.jpg"
     },
@@ -67,7 +67,7 @@ export default function Process() {
             Our Turnkey Design Process
           </h1>
           <p className="text-sm text-[#CBCBCB]/80 mt-4 font-light leading-relaxed">
-            Engineered by Civil Engineer & Principal Architect <strong>Sindhu Jain M S</strong> to eliminate traditional delays, site mess, and hidden material markups from initial sketch to white-glove key handover.
+            Engineered by Founder & Civil Engineer <strong>Sindhu Jain M S</strong> to eliminate traditional delays, site mess, and hidden material markups from initial sketch to white-glove key handover.
           </p>
         </div>
 

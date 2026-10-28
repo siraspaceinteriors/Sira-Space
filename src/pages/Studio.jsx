@@ -6,7 +6,7 @@ export default function Studio() {
   const careerTimeline = [
     {
       period: "April 2023 – Present",
-      role: "Founder & Principal Architect",
+      role: "Founder",
       company: "SIRA SPACE, Bengaluru",
       desc: "Founded SIRA Space to revolutionize interior architecture through narrative spatial flow, factory modular precision, and 100% material transparency. Delivered 25+ execution projects and 50+ design projects across Karnataka."
     },
@@ -77,7 +77,7 @@ export default function Studio() {
               
               <div className="absolute bottom-6 left-6 right-6 z-10">
                 <span className="text-[10px] tracking-widest text-[#C5A059] uppercase font-bold block">
-                  FOUNDER & PRINCIPAL ARCHITECT
+                  FOUNDER
                 </span>
                 <h3 className="font-serif text-2xl font-bold text-white mt-1">
                   Sindhu Jain M S

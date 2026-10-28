@@ -56,7 +56,7 @@ export default function Commercial() {
             Commercial & Workplace Environments
           </h1>
           <p className="text-sm text-[#CBCBCB]/80 mt-5 font-light leading-relaxed">
-            Led by Civil Engineer & Principal Architect <strong>Sindhu Jain M S</strong>, we design and execute high-performance commercial spaces, corporate headquarters, and medical clinics across Karnataka with strict timeline guarantees.
+            Led by Founder & Civil Engineer <strong>Sindhu Jain M S</strong>, we design and execute high-performance commercial spaces, corporate headquarters, and medical clinics across Karnataka with strict timeline guarantees.
           </p>
         </div>
 

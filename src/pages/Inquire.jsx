@@ -31,7 +31,7 @@ export default function Inquire() {
             Book a Design Consultation
           </h1>
           <p className="text-sm text-[#CBCBCB]/80 max-w-2xl mt-4 font-light leading-relaxed">
-            Schedule a site walkthrough or project consultation with Founder & Principal Architect <strong>Sindhu Jain M S</strong>.
+            Schedule a site walkthrough or project consultation with Founder <strong>Sindhu Jain M S</strong>.
           </p>
         </div>
 
@@ -105,7 +105,7 @@ export default function Inquire() {
                 <CheckCircle2 className="w-10 h-10 text-[#C5A059] mx-auto" />
                 <h3 className="font-serif text-2xl text-white">Consultation Requested</h3>
                 <p className="text-xs text-[#CBCBCB] font-light">
-                  Thank you, <strong>{formData.name}</strong>. Principal Architect Sindhu Jain M S will review your requirements and get back to you via phone or email shortly.
+                  Thank you, <strong>{formData.name}</strong>. Founder Sindhu Jain M S will review your requirements and get back to you via phone or email shortly.
                 </p>
               </div>
             ) : (

@@ -14,10 +14,10 @@ export const brandsData = [
     badge: "Fascin[action]"
   },
   {
-    name: "Epco",
+    name: "Ebco",
     tagline: "Heavy-Duty Architectural Hardware & Locks",
     category: "Architectural Hardware",
-    logo: "/brand_logos/epco.svg",
+    logo: "/brand_logos/ebco.svg",
     badge: "Precision Fittings"
   },
   {
@@ -222,7 +222,7 @@ export const faqData = [
       },
       {
         question: "Can Sira Space handle both Residential and Commercial projects?",
-        answer: "Yes! While luxury residential interiors (apartments, penthouses, independent villas) are our core, Principal Architect Sindhu Jain M S also leads turnkey commercial architecture—including corporate offices, healthcare centers (e.g. Global Pet Hospital), modern retail showrooms, and cafes across Karnataka."
+        answer: "Yes! While luxury residential interiors (apartments, penthouses, independent villas) are our core, Founder Sindhu Jain M S also leads turnkey commercial architecture—including corporate offices, healthcare centers (e.g. Global Pet Hospital), modern retail showrooms, and cafes across Karnataka."
       }
     ]
   }
@@ -251,7 +251,7 @@ export const blogData = [
     "summary": "How to craft a serene, high-end living lounge using architectural fluted panels, floating cantilever TV consoles, warm cove ceilings, and minimalist tactile textures.",
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "slug": "modern-living-room-fluted-panels-japandi",
-    "author": "Ar. Sindhu Jain M S (Principal Architect)"
+    "author": "Sindhu Jain M S (Founder & Civil Engineer)"
   },
   {
     "id": "floor-to-ceiling-wardrobes-storage-guide",
@@ -287,7 +287,7 @@ export const blogData = [
     "summary": "Learn how to align your kitchen, master bedroom, puja mandir, and mirrors with Vastu principles without compromising on sleek modern aesthetics.",
     "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
     "slug": "vastu-shastra-modern-apartments",
-    "author": "Ar. Sindhu Jain M S (Principal Architect)"
+    "author": "Sindhu Jain M S (Founder & Civil Engineer)"
   },
   {
     "id": "plywood-grades-bwr-vs-bwp-marine",

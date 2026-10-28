@@ -51,7 +51,7 @@ export default function Blog() {
             SIRA Knowledge Hub
           </h1>
           <p className="text-sm text-[#CBCBCB]/80 mt-5 font-light leading-relaxed">
-            Trending interior design concepts, Livspace design benchmarks, material grading blueprints, and realistic cost breakdowns written by Civil Engineer & Principal Architect <strong>Sindhu Jain M S</strong>.
+            Trending interior design concepts, Livspace design benchmarks, material grading blueprints, and realistic cost breakdowns written by Founder & Civil Engineer <strong>Sindhu Jain M S</strong>.
           </p>
         </div>
 

@@ -64,7 +64,7 @@ export const blogArticles = [
     "tag": "Trending 2026",
     "date": "October 2026",
     "readTime": "7 min read",
-    "author": "Ar. Sindhu Jain M S (Principal Architect)",
+    "author": "Sindhu Jain M S (Founder & Civil Engineer)",
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
     "summary": "How to craft a serene, high-end living lounge using architectural fluted panels, floating cantilever TV consoles, warm cove ceilings, and minimalist tactile textures.",
     "sections": [
@@ -186,7 +186,7 @@ export const blogArticles = [
     "tag": "Architectural Vastu",
     "date": "September 2026",
     "readTime": "5 min read",
-    "author": "Ar. Sindhu Jain M S (Principal Architect)",
+    "author": "Sindhu Jain M S (Founder & Civil Engineer)",
     "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
     "summary": "Learn how to align your kitchen, master bedroom, puja mandir, and mirrors with Vastu principles without compromising on sleek modern aesthetics.",
     "sections": [

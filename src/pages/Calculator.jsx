@@ -140,7 +140,7 @@ export default function Calculator() {
       `• Chosen Tier: ${tierName} PACKAGE\n` +
       `• Investment Estimate: ₹ ${currentTierEstimate.min} - ₹ ${currentTierEstimate.max} Lakhs\n` +
       `• Selected Scope: ${roomsList}\n\n` +
-      `Please schedule an architectural floor plan review with Founder & Principal Architect Sindhu Jain M S.`
+      `Please schedule an architectural floor plan review with Founder Sindhu Jain M S.`
     );
     window.open(`https://wa.me/918618870672?text=${text}`, '_blank');
   };
@@ -474,7 +474,7 @@ export default function Calculator() {
                 </button>
 
                 <p className="text-[11px] text-[#CBCBCB]/60 text-center font-light">
-                  Pre-fills your exact {sqFt} sq.ft {getBhkLabel()} configuration and connects directly to Principal Architect Sindhu Jain.
+                  Pre-fills your exact {sqFt} sq.ft {getBhkLabel()} configuration and connects directly to Founder Sindhu Jain.
                 </p>
               </div>
 

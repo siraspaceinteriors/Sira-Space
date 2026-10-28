@@ -110,7 +110,7 @@ export default function Experience({ onOpenQuote }) {
             </div>
             <h3 className="font-serif text-2xl text-white mb-2">Architectural Integrity</h3>
             <p className="text-xs text-[#CBCBCB]/80 leading-relaxed font-light">
-              Every project is led by Civil Engineer & Principal Architect <strong>Sindhu Jain M S</strong>, ensuring structural safety, genuine plywood grades, and lifetime peace of mind.
+              Every project is led by Founder & Civil Engineer <strong>Sindhu Jain M S</strong>, ensuring structural safety, genuine plywood grades, and lifetime peace of mind.
             </p>
           </div>
         </div>
